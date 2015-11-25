@@ -1,0 +1,31 @@
+/* own css to customize */
+
+  /* post css */
+    .dIB{
+        display:inline-block
+    }
+    .post-social {
+        display:block;
+        text-align:right;
+        padding:5px
+    }
+    .post-social .btn {
+        border-radius: 3px!important;
+        -webkit-border-radius: 3px!important;
+        -moz-border-radius: 3px!important;
+    }
+    .post-social input{
+        padding:0
+    }
+    .post-social .count{
+        display: inline-block;
+        font-weight: bold
+    }
+  /*post css end */
+  
+  /*Followers*/
+    .row.followers{
+        margin:0;
+        padding:0
+    }
+  /*Followers end*/
