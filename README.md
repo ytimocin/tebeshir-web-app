@@ -1,6 +1,6 @@
 # tebeshir-web-app
 
-Java, JSP, CSS, JavaScript\n
+Java, JSP, CSS, JavaScript
 PostgreSQL (100+ DB Objects - [Tables, Procedures, Packages, Sequences...])
 
 check out http://tebeshir.com
